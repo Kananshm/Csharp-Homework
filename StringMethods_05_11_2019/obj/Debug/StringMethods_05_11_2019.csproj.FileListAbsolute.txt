@@ -1,0 +1,7 @@
+C:\Users\Code Academy\source\repos\praktika\StringMethods_05_11_2019\obj\Debug\StringMethods_05_11_2019.csprojAssemblyReference.cache
+C:\Users\Code Academy\source\repos\praktika\StringMethods_05_11_2019\obj\Debug\StringMethods_05_11_2019.csproj.CoreCompileInputs.cache
+C:\Users\Code Academy\source\repos\praktika\StringMethods_05_11_2019\bin\Debug\StringMethods_05_11_2019.exe.config
+C:\Users\Code Academy\source\repos\praktika\StringMethods_05_11_2019\bin\Debug\StringMethods_05_11_2019.exe
+C:\Users\Code Academy\source\repos\praktika\StringMethods_05_11_2019\bin\Debug\StringMethods_05_11_2019.pdb
+C:\Users\Code Academy\source\repos\praktika\StringMethods_05_11_2019\obj\Debug\StringMethods_05_11_2019.exe
+C:\Users\Code Academy\source\repos\praktika\StringMethods_05_11_2019\obj\Debug\StringMethods_05_11_2019.pdb
